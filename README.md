@@ -1,7 +1,7 @@
 # Hi, I'm Dewayne Barnes 👋
 
 I'm a highly motivated computer science student with a passion for software development and a keen interest in building innovative solutions. I'm currently pursuing my degree at the University of Pennsylvania.
-![](https://komarev.com/ghpvc/?Evanition) <- Visitors
+
 ## About Me
 
 I am driven by a desire to learn and grow in the world of technology. I enjoy tackling complex problems and collaborating on projects that make a difference. My technical interests span across various areas, including:
