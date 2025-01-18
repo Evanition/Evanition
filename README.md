@@ -44,3 +44,5 @@ Here are some of my notable projects:
 *   **GitHub:** [https://github.com/Evanition](https://github.com/Evanition)
 
 Let's connect and build something great!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evanition)](https://github.com/anuraghazra/github-readme-stats)
