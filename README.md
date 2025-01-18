@@ -2,7 +2,7 @@
 
 I'm a highly motivated computer science student with a passion for software development and a keen interest in building innovative solutions. I'm currently pursuing my degree at the University of Pennsylvania.
 
-![](https://komarev.com/ghpvc/?username=Evanition) Page Views
+![](https://komarev.com/ghpvc/?username=Evanition)
 
 ## About Me
 
@@ -27,8 +27,8 @@ Here are some of my notable projects:
 
 Let's connect and build something great!
 
-<> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evanition)](https://github.com/anuraghazra/github-readme-stats)
-<> [![trophy](https://github-profile-trophy.vercel.app/?username=Evanition)](https://github.com/ryo-ma/github-profile-trophy)
-<> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Evanition)](https://git.io/streak-stats)
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evanition)](https://github.com/anuraghazra/github-readme-stats)]:#
+[![trophy](https://github-profile-trophy.vercel.app/?username=Evanition)](https://github.com/ryo-ma/github-profile-trophy)]:#
+[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Evanition)](https://git.io/streak-stats)]:#
 
 
