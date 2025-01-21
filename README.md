@@ -14,15 +14,7 @@ I am driven by a desire to learn and grow in the world of technology. I enjoy ta
 *   **Mobile Development:** Crafting intuitive mobile applications for both iOS and Android.
 *   **Cloud Computing:** Learning and applying my skills to cloud platforms.
 
-I also have interest in several other areas such as embedded systems, dev ops, and database design.
-
-## Projects
-
-Here are some of my notable projects:
-
-*   **[My Personal Portfolio Website](https://github.com/Evanition/my-portfolio):** A personal portfolio website built with Vite and Vue.js to showcase my skills and projects.
-*   **[Other Project Name](https://github.com/Evanition/other-project-repo):** *(Add links to other projects)*
-*   **[Another Project Name](https://github.com/Evanition/another-project-repo):** *(Add links to other projects)*
+I also have interest in several other areas such as embedded systems, dev ops, and database design
 
 
 Let's connect and build something great!
